@@ -1,6 +1,5 @@
 #https://www.youtube.com/watch?v=Ic8V1Pue-2I&ab_channel=%E6%8A%95%E6%9C%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4
-#MACD
-#ATR
+# Not Done yet
 library(quantmod)
 library(lubridate)
 library(TTR)
